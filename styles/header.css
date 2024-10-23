@@ -7,7 +7,7 @@
     display: inline-block;
 }
 .cabeçalho{
-    background-color: rgb(252, 241, 241);
+    background-color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-between;
     align-items: center;
