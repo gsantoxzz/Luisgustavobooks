@@ -1,0 +1,25 @@
+@import url("styles/header.css");
+@import url("stlyles/banner.css");
+@import url("stlyles/carrosel.css");
+
+
+:root{
+    --cor-de-fundo: white;
+    --fonte-principal:"poppins";
+}
+body{
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+}
+style{
+.carrosel__titulo{
+    color: aqua;
+    background-color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18PX;
+    font-weight: 700PX;
+    padding: 1EM 0 0.5em 0;
+}
